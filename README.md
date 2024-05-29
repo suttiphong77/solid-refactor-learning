@@ -38,20 +38,14 @@ Follow these steps to set up and run the FullStackApp locally:
 1. Clone the repository:
    ```bash
    mkdir refactor
-   ```bash
    cd refactor
-   ```bash
    git clone https://github.com/suttiphong77/solid-refactor-learning.git
 
 2. Starting Front-end
    ```bash 
    cd fullstack-frontend-master
-   ```bash
    npm start 
 
 3. Starting Back-end
    ```bash
    run FullstackBackendApplicationTests.java
-
-
-
