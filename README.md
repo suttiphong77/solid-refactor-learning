@@ -20,7 +20,7 @@ Learn about solid principles and refactor with User Management CRUD Web Applicat
 
 - **Databased:**
   - MySQL
-  - MySQL Workbecnh 8.0 CE
+  - MySQL Workbench 8.0 CE
 
 ## Prerequisites
 
