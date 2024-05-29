@@ -48,4 +48,5 @@ Follow these steps to set up and run the FullStackApp locally:
 
 3. Starting Back-end
    ```bash
+   cd fullstack-backend-master
    run FullstackBackendApplicationTests.java
